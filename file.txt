@@ -1,2 +1,6 @@
 This is a file in test branch.
+<<<<<<< HEAD
 changes in this file from local.
+=======
+practice merge conflit in this file.
+>>>>>>> fcf370b10d1383e4e4a994e1a1b84be781b8dd63
